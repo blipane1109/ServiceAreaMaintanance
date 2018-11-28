@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [ServiceAreaManintanence]">
+  <parameter name="US_Name" value="161393"/>
+  <test name="US 161393(failed)">
+    <parameter name="US_Name" value="161393"/>
+    <classes>
+      <class name="main.Migration.US_161393">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="beforeSuite"/>
+          <include name="tc_22"/>
+          <include name="aftersuite"/>
+        </methods>
+      </class> <!-- main.Migration.US_161393 -->
+    </classes>
+  </test> <!-- US 161393(failed) -->
+</suite> <!-- Failed suite [ServiceAreaManintanence] -->

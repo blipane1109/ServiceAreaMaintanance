@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="F:/Jars/activation.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/com4j.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/extentreports-2.05.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/fontbox-1.8.9.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/java-client-1.6.0.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/jempbox-1.8.9.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/jersey-bundle-1.18.2.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/jersey-core-1.17.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/json.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/jxl.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/mail.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/ojdbc-6.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/OTAClient.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/pdfbox-1.8.9.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/poi-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/poi-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/poi-examples-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/poi-excelant-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/poi-ooxml-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/poi-ooxml-schemas-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/poi-scratchpad-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/selenium-server-standalone-2.53.0 (1).jar"/>
+	<classpathentry kind="lib" path="F:/Jars/slave.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

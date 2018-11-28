@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="US_Name" value="US_Demo"/>
+  <test name="US Demo(failed)">
+    <parameter name="US_Name" value="US_Demo"/>
+    <classes>
+      <class name="main.US_Demo">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="tc_09"/>
+          <include name="beforeSuite"/>
+          <include name="tc_10"/>
+          <include name="tc_02"/>
+          <include name="tc_01"/>
+          <include name="tc_03"/>
+          <include name="tc_06"/>
+          <include name="tc_05"/>
+          <include name="tc_08"/>
+          <include name="tc_07"/>
+        </methods>
+      </class> <!-- main.US_Demo -->
+    </classes>
+  </test> <!-- US Demo(failed) -->
+</suite> <!-- Failed suite [Suite] -->
