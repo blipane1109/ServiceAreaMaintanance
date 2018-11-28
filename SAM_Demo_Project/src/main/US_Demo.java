@@ -32,7 +32,7 @@ public class US_Demo {
 	public void tc_01() throws Exception{
 		String testCaseName="TC_01";
 		
-		//this is test case 1
+		//this is test case 1 and 2
 		int temp= 0;
 		logger.info("Executing the Test Case No. " + testCaseName);
 		JavascriptExecutor js=(JavascriptExecutor) BrowserInitialization.driver;
